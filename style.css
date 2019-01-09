@@ -1,0 +1,31 @@
+body, html {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-family: sans-serif;
+}
+
+.author {
+	font-size: 150%;
+	color: gray;
+	padding-left: 10px;
+	margin-left: 20px;
+	border-left: 2px gray solid;
+}
+
+.contrast-item {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+}
+
+.contrast-item p {
+	border: 2px black solid;
+	padding: 10px;
+	margin: 0px;
+}
+
+.contrast-item h3 {
+	margin: 0px;
+	padding: 0px;
+}
