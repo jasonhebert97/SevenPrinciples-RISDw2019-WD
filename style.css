@@ -3,15 +3,35 @@ body, html {
 	padding-right: 10px;
 	padding-bottom: 10px;
 	font-family: sans-serif;
+	text-align: justify;
+}
+
+h1, h2, h3, h4, h5 {
+	padding: 0;
+	margin: 0;
+	text-align: left;
+	padding-top: 5px;
 }
 
 section {
 	border-top: 2px black solid;
 	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+ol {
+	margin-left: 45px;
+	padding: 0;
+}
+
+header section {
+	border: none;
+	padding: 0 0 10px 0;
+	margin: 0;
 }
 
 .author {
-	font-size: 150%;
+	font-size: 90%;
 	color: gray;
 	padding-left: 10px;
 	margin-left: 20px;
@@ -19,14 +39,14 @@ section {
 }
 
 .contrast-item {
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 25px;
+	margin-right: 75px;
 	margin-bottom: 25px;
 }
 
 .contrast-item p {
 	border: 2px black solid;
-	padding: 10px;
+	padding: 15px;
 	margin: 0px;
 }
 
