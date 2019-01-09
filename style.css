@@ -5,6 +5,11 @@ body, html {
 	font-family: sans-serif;
 }
 
+section {
+	border-top: 2px black solid;
+	padding-top: 5px;
+}
+
 .author {
 	font-size: 150%;
 	color: gray;
